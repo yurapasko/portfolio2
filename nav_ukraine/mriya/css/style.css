@@ -1,0 +1,108 @@
+	.header{
+		display: flex;
+		justify-content: space-around;
+		box-shadow: inset 5em 1em gold;
+	}
+	.container{
+		width: 950px;
+		margin: 0 auto; 
+	}
+	.header_img{
+		background: green;
+		width: 450px;
+		height: 220px;
+	}
+	.main_1{
+		display: flex;
+	}
+	h1{
+		text-align: center;
+	}
+	.main_2{
+		display: flex;
+	}
+	.button{
+		background: yellow;
+		width: 250px;
+		height: 60px;
+	}
+	.h1_nav{
+		display: flex;
+		align-items: flex-start;
+		font-size: 30px;
+	}
+	.div_div{
+		background: red;
+		width: 950px;
+		height: 5px;
+	}
+	.nav_1{
+		display: flex;
+	}
+	/*Цікаві Факти*/
+	.facts_1_1{
+		display: flex;
+		width: 340px;
+	}
+	.img_facts_1_1{
+		margin-top: 10px;
+	}
+	.facts_1{
+		width: 720px;
+		margin: 0 auto;
+	}
+	.p_facts_1_1_p{
+		font-size: 13px;
+	}
+	.img_facts_1_1_img{
+		border-radius:50px;
+	}
+	.facts_1_2{
+		display: flex;
+		width: 340px;
+		margin-left: 10px;
+	}
+	.facts_1{
+		display: flex;
+	}
+	.facts_2{
+		display: flex;
+		width: 700px;
+		margin: 0 auto;
+	}
+	.table_2{
+		border:1px solid black; 
+	}
+	.table{
+		width: 957px;
+		margin:0 auto; 
+		margin-left:-5px;
+	}
+	.img_facts_1_1{
+		object-fit: cover;
+	}
+	.cnop_1{
+		background: orange;
+		width: 150px;
+		height: 75px;
+
+	}
+	.cnop{
+		align-items: flex-end;
+		justify-content: flex-end;
+	}
+.h1_header{
+	font-family: 'Quicksand', sans-serif;
+}
+.pp{
+	font-family: 'Quicksand', sans-serif;
+}
+.button{
+	font-family: 'Quicksand', sans-serif;
+}
+.h1_nav{
+	font-family: 'Quicksand', sans-serif;
+}
+.p_facts_1_1_p{
+	font-family: 'Quicksand', sans-serif;
+}
